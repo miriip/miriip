@@ -1,12 +1,12 @@
 # Hi there! 👋
 
-I’m **Miranda**, a 🎓 Computer Engineering student from Argentina.  
-I’m passionate about **web development** 💻 and always curious to learn new things.
+I’m **Miranda**, a Computer Engineering student from Argentina.  
+I’m passionate about **web development** and always curious to learn new things.
 
-## 🚀 About me
+##  About me
 - 🌱 Currently learning and improving my skills in **C#**, **HTML**, **CSS**, **JavaScript**, **Python**, and **SQL**.  
-- 💡 Interested in both **frontend** 🎨 and **backend** ⚙️ development, as well as **databases** 🗄️.  
-- 🛠️ I enjoy building projects that mix **creativity** ✨ and **technology** 🤖.  
+- 💡 Interested in both **frontend** and **backend** development, as well as **databases** .  
+- 🛠️ I enjoy building projects that mix **creativity** and **technology** .  
 - 📚 I believe learning never stops!
 
 ## 🛠️ Technologies & Tools
@@ -17,12 +17,12 @@ I’m passionate about **web development** 💻 and always curious to learn new 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-## 🎯 Goals
-- 🤝 Work effectively in **team projects**.  
-- 💪 Be **persistent** when facing challenges.  
-- 🧠 Find creative and efficient **solutions** to problems.  
-- 🚀 Keep learning and improving every day.  
+##  Goals
+- Work effectively in **team projects**.  
+- Be **persistent** when facing challenges.  
+- Find creative and efficient **solutions** to problems.  
+- Keep learning and improving every day.  
 
 ## 📫 Contact
-- 📧 **Email:** guerra.mirandauni@gmail.com  
+- **Email:** guerra.mirandauni@gmail.com  
 
