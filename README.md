@@ -45,7 +45,7 @@ Actualmente busco oportunidades para seguir desarrollando mis habilidades tanto 
         <img src="https://img.shields.io/badge/SQL-003B57?style=flat"/>
         <img src="https://img.shields.io/badge/AI-6A5ACD?style=flat"/>
       </p>
-      <a href="https://github.com/miriip/SoundList" target="_blank">
+      <a href="https://github.com/SoundList" target="_blank">
         🔗 Ver Código
       </a>
     </td>
