@@ -3,12 +3,12 @@
 
 # Hola, soy **Miranda Guerra** 👋
 
-<!-- Typing effect (rojo) -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&pause=1000&color=E53935&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+en+formaci%C3%B3n;C%23+%2F+.NET+%26+SQL;Microservicios+%26+APIs;AI+en+SoundList" />
+<!-- Typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&pause=1000&color=E53935&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+en+formaci%C3%B3n;C%23+%2F+.NET+%26+SQL;Microservicios+%26+APIs;AI+aplicada+en+SoundList" />
 
 <br/>
 
-<!-- Botón Portfolio (placeholder por ahora) -->
+<!-- Portfolio button (placeholder) -->
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/%E2%96%B2%20VISITA%20MI%20PORTFOLIO-1F1F1F?style=for-the-badge&labelColor=E53935" />
 </a>
@@ -19,10 +19,11 @@
 
 ## 🚀 Sobre mí
 
-Soy estudiante de **Ingeniería en Informática (UNAJ)** con interés en el desarrollo **Full Stack** y en construir soluciones que integren **backend, frontend y bases de datos**.
+Soy estudiante de **Ingeniería en Informática**, con interés en el desarrollo de software y en la aplicación de tecnologías para resolver problemas reales.
 
-Me gusta trabajar con **C# y .NET**, bases de datos relacionales (**SQL Server / MySQL**) y tecnologías web (**HTML, CSS y JavaScript**). Participé en proyectos académicos donde apliqué **CRUD**, integración de **APIs**, uso de **Git** y pruebas con **Postman**.  
-Además, trabajé en **SoundList**, un proyecto distribuido con **microservicios** e integración de **IA**.
+Me destaco por mi **pensamiento analítico**, curiosidad y capacidad de **aprendizaje continuo**. Disfruto trabajar en equipo, adaptarme a distintos contextos y participar en proyectos que integren áreas técnicas y organizativas.
+
+Actualmente busco oportunidades para seguir desarrollando mis habilidades tanto **técnicas como de gestión** dentro del sector tecnológico, aportando compromiso y ganas de crecer profesionalmente.
 
 ---
 
@@ -34,8 +35,8 @@ Además, trabajé en **SoundList**, un proyecto distribuido con **microservicios
       <h3>🎧 SoundList 🎧</h3>
       <p><b>Plataforma Social Distribuida (Microservicios)</b></p>
       <p>
-        Red social de música desarrollada en .NET con integración de Spotify API y análisis de sentimiento mediante IA.
-        Arquitectura desacoplada y procesamiento asíncrono.
+        Red social de música desarrollada como proyecto académico, que permite reseñar canciones,
+        crear listas colaborativas y obtener análisis de sentimiento mediante inteligencia artificial.
       </p>
       <p>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
@@ -44,7 +45,7 @@ Además, trabajé en **SoundList**, un proyecto distribuido con **microservicios
         <img src="https://img.shields.io/badge/SQL-003B57?style=flat"/>
         <img src="https://img.shields.io/badge/AI-6A5ACD?style=flat"/>
       </p>
-      <a href="https://github.com/ORG_O_USUARIO/SoundList" target="_blank">
+      <a href="https://github.com/miriip/SoundList" target="_blank">
         🔗 Ver Código
       </a>
     </td>
@@ -52,8 +53,8 @@ Además, trabajé en **SoundList**, un proyecto distribuido con **microservicios
       <h3>☕ Café El Mejor ☕</h3>
       <p><b>Sistema de Gestión para Cafetería</b></p>
       <p>
-        Aplicación Full Stack para registrar ventas y controlar inventario.
-        CRUD completo, manejo de stock y UI web clara para uso diario.
+        Aplicación Full Stack desarrollada para el control de inventario y el registro de ventas,
+        mejorando la organización y precisión administrativa del negocio.
       </p>
       <p>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
@@ -62,7 +63,7 @@ Además, trabajé en **SoundList**, un proyecto distribuido con **microservicios
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
       </p>
-      <a href="https://github.com/TU_USUARIO/cafe-el-mejor" target="_blank">
+      <a href="https://github.com/miriip/cafe-el-mejor" target="_blank">
         🔗 Ver Código
       </a>
     </td>
@@ -108,15 +109,6 @@ Además, trabajé en **SoundList**, un proyecto distribuido con **microservicios
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
----
-
-## 📈 Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
