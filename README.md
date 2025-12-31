@@ -63,7 +63,7 @@ Actualmente busco oportunidades para seguir desarrollando mis habilidades tanto 
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
       </p>
-      <a href="https://github.com/miriip/cafe-el-mejor" target="_blank">
+      <a href="https://github.com/miriip/Proyecto_Cafe_el_Mejor" target="_blank">
         🔗 Ver Código
       </a>
     </td>
