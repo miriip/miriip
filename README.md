@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 I'm a **Computer Engineering student at Universidad Nacional Arturo Jauretche (UNAJ)** from Argentina.  
 💻 I'm passionate about **Full Stack development**, combining backend logic, frontend design, and database management.  
@@ -66,7 +66,7 @@ A Full Stack system designed to manage inventory and sales for a cafeteria, impr
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### 🖥️ Backend & Core
 <p>
@@ -103,4 +103,4 @@ A Full Stack system designed to manage inventory and sales for a cafeteria, impr
 ## 📬 Contact
 
 📧 **Email:** guerra.mirandamg@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/tu-linkedin
+💼 **LinkedIn:** https://www.linkedin.com/in/miranda-guerra-893256375
