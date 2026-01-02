@@ -10,9 +10,10 @@
 <br/>
 
 <!-- Portfolio button (placeholder) -->
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%96%B2%20VISITA%20MI%20PORTFOLIO-1F1F1F?style=for-the-badge&labelColor=E53935" />
+<a href="https://portfolio-miranda-xi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%96%B2%20VISITA%20MI%20PORTFOLIO-0B0B10?style=for-the-badge&labelColor=C084FC" />
 </a>
+
 
 </div>
 
