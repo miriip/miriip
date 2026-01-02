@@ -4,7 +4,8 @@
 # Hola, soy **Miranda Guerra** 👋
 
 <!-- Typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&pause=1000&color=E53935&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+en+formaci%C3%B3n;C%23+%2F+.NET+%26+SQL;Microservicios+%26+APIs;AI+aplicada+en+SoundList" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+en+formaci%C3%B3n;C%23+%2F+.NET+%26+SQL;Microservicios+%26+APIs;AI+aplicada+en+SoundList" />
+
 
 <br/>
 
