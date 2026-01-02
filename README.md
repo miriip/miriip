@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 Soy estudiante de **Ingeniería en Informática**, con interés en el desarrollo de software y en la aplicación de tecnologías para resolver problemas reales.
 
@@ -29,7 +29,7 @@ Actualmente busco oportunidades para seguir desarrollando mis habilidades tanto 
 
 ---
 
-## 🏆 Proyectos Destacados
+##  Proyectos Destacados
 
 <table>
   <tr>
@@ -74,7 +74,7 @@ Actualmente busco oportunidades para seguir desarrollando mis habilidades tanto 
 
 ---
 
-## 🧰 Arsenal Técnico
+##  Arsenal Técnico
 
 ### Backend & Core
 <p>
