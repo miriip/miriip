@@ -117,7 +117,7 @@ Actualmente busco oportunidades para seguir desarrollando mis habilidades tanto 
 ## 📬 Contacto
 
 <p align="center">
-  <a href="mailto:guerra.mirandauni@gmail.com">
+  <a href="mailto:guerra.mirandamg@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-1F1F1F?style=for-the-badge&labelColor=E53935"/>
   </a>
   <a href="https://www.linkedin.com/in/miranda-guerra-893256375" target="_blank">
